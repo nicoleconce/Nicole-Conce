@@ -1,0 +1,15 @@
+/* CSS Cascade Style Sheet */
+h1,h2,h3 {color: rgb(93, 37, 248);}
+
+h1{font-family: 'Times New Roman', Times, serif;
+font-size: 3.5rem;}
+
+h2{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;}
+
+section{background-color: rgb(206, 244, 253);}
+
+.noticia-principal h2 {color: rgb(19, 136, 156);}
+
+#noticia-clave h2 {background-color: rgb(20, 20, 20); color: white ;}
+
